@@ -152,6 +152,6 @@ public class First {
 		 * 
 		 * dur.navigate().back(); dur.quit();
 		 */
-    //dur.close();
+    //driver.close();
 	}
 }
